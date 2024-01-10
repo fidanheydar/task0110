@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.AssemblyInfo.cs
+C:\Users\HP\Desktop\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\StudentManagement\StudentManagement\bin\Debug\netcoreapp3.1\StudentManagement.exe
+C:\Users\HP\Desktop\StudentManagement\StudentManagement\bin\Debug\netcoreapp3.1\StudentManagement.deps.json
+C:\Users\HP\Desktop\StudentManagement\StudentManagement\bin\Debug\netcoreapp3.1\StudentManagement.runtimeconfig.json
+C:\Users\HP\Desktop\StudentManagement\StudentManagement\bin\Debug\netcoreapp3.1\StudentManagement.runtimeconfig.dev.json
+C:\Users\HP\Desktop\StudentManagement\StudentManagement\bin\Debug\netcoreapp3.1\StudentManagement.dll
+C:\Users\HP\Desktop\StudentManagement\StudentManagement\bin\Debug\netcoreapp3.1\StudentManagement.pdb
+C:\Users\HP\Desktop\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.dll
+C:\Users\HP\Desktop\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.pdb
+C:\Users\HP\Desktop\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.genruntimeconfig.cache
